@@ -1,0 +1,12 @@
+{
+  "name": "aman-singh-portfolio",
+  "version": "1.0.0",
+  "description": "Professional developer portfolio website for Aman Singh",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Aman Singh",
+  "license": "ISC"
+}
